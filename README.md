@@ -1,5 +1,5 @@
 # Lab 5 - Starter
-## Emm Nguyen
+## Emma Nguyen
 
 Expose gitHub page: https://faquanly.github.io/Lab5_Starter/expose.html
 
